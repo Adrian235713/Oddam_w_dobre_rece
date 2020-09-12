@@ -1,4 +1,5 @@
 import React, {Component, useState} from "react";
+import Decortaion from '../assets/Decoration.svg'
 
 const Header = () => {
 
@@ -13,24 +14,38 @@ const Header = () => {
 
                     <div className={'login'}>
 
+                        <button type={"button"}>Zaloguj</button>
+                        <button type={"button"}>Załóż konto</button>
+
                     </div>
 
                     <div className={'menu'}>
 
+                        <button type={"button"}>Start</button>
+                        <button type={"button"}>O co chodzi?</button>
+                        <button type={"button"}>O nas</button>
+                        <button type={"button"}>Fundacje i ogranizacje</button>
+                        <button type={"button"}>Kontakt</button>
+
                     </div>
 
                     <div className={'mainTitle'}>
-                        <h2>Zacznij pomagać! Oddaj niechciane rzeczy w zaufane ręce</h2>
+                        <div>
+                            <h2>Zacznij pomagać!</h2>
+                            <h2>Oddaj niechciane rzeczy w zaufane ręce</h2>
+                        </div>
                     </div>
 
                     <div className={'decoration'}>
-
+                        <img src={Decortaion} alt="decoration"/>
                     </div>
 
                     <div className={'mainButton'}>
-
+                        <div>
+                            <button type={'button'}>ODDAJ RZECZY</button>
+                            <button type={'button'}>ZORGANIZUJ ZBIÓRKĘ</button>
+                        </div>
                     </div>
-
                 </div>
             </div>
         </>
@@ -38,9 +53,3 @@ const Header = () => {
 }
 export default Header;
 
-// <div className={'divMianHeader2LoginDiv'}>
-//     <button className={'menuButtons'} type={'button'}>Zaloguj</button>
-// </div>
-// <div className={'divMianHeader2LoginDiv'}>
-//     <button className={'menuButtons'} cltype={'button'}>Założ konto</button>
-// </div>
