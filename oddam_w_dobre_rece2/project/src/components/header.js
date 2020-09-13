@@ -33,11 +33,8 @@ const Header = () => {
                         <div>
                             <h2>Zacznij pomagać!</h2>
                             <h2>Oddaj niechciane rzeczy w zaufane ręce</h2>
+                            <img src={Decortaion} alt="decoration"/>
                         </div>
-                    </div>
-
-                    <div className={'decoration'}>
-                        <img src={Decortaion} alt="decoration"/>
                     </div>
 
                     <div className={'mainButton'}>

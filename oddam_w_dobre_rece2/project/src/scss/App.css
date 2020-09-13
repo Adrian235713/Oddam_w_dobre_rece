@@ -1,0 +1,310 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.divMianHeader {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+.divMianHeader .divMianHeader1 {
+  width: 50%;
+  height: 100%;
+  background-image: url("../assets/Hero Image@2x.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.divMianHeader .divMianHeader2 {
+  width: 50%;
+}
+.divMianHeader .login {
+  width: 100%;
+  height: 5vh;
+}
+.divMianHeader .menu {
+  width: 100%;
+  height: 5vh;
+}
+.divMianHeader .mainTitle {
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.divMianHeader .mainTitle h2 {
+  text-align: center;
+  font: normal normal normal 28px/45px Open Sans;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.divMianHeader .mainTitle img {
+  padding: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.divMianHeader .decoration {
+  width: 100%;
+  height: 10vh;
+}
+.divMianHeader .mainButton {
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divMianHeader .mainButton button {
+  font-size: 25px;
+  text-align: center;
+  border: 0.75px solid #3C3C3C;
+  padding: 20px;
+}
+.divMianHeader button {
+  float: right;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  text-decoration: none;
+  border: none;
+  background: none;
+  text-align: left;
+  font: normal normal normal 18px/24px Open Sans;
+  color: #737373;
+  opacity: 1;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.FourStepsMainDiv {
+  width: 100%;
+  height: 100vh;
+}
+.FourStepsMainDiv .box_1 {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent url("../assets/bacground.png") 0% 0% no-repeat padding-box;
+}
+.FourStepsMainDiv .box_1 .box {
+  margin-right: 50px;
+  width: 20%;
+  height: 70%;
+}
+.FourStepsMainDiv .box_1 .box h2 {
+  text-align: center;
+  font: normal normal 300 90px/122px Open Sans;
+  letter-spacing: 0px;
+  color: #5E5322;
+  opacity: 1;
+}
+.FourStepsMainDiv .box_1 .box h3 {
+  text-align: center;
+  font: normal normal normal 18px/30px Open Sans;
+  letter-spacing: -0.36px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.FourStepsMainDiv .box_1 .box p {
+  margin-top: 20px;
+  text-align: center;
+  font: normal normal 300 16px/18px Merriweather;
+  letter-spacing: -0.32px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.FourStepsMainDiv .box_2 {
+  width: 100%;
+  height: 10%;
+}
+.FourStepsMainDiv .box_2 h2 {
+  padding-top: 65px;
+  text-align: center;
+  font: normal normal normal 38px/55px Open Sans;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.FourStepsMainDiv .box_2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.FourStepsMainDiv .box_3 {
+  width: 100%;
+  height: 30%;
+  background: #F0F1F1 0% 0% no-repeat padding-box;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.FourStepsMainDiv .box_3 div {
+  width: 20%;
+  height: 80%;
+}
+.FourStepsMainDiv .box_3 img {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.FourStepsMainDiv .box_3 h2 {
+  text-align: center;
+  font: normal normal normal 18px/24px Open Sans;
+  letter-spacing: 0px;
+  color: #3C3C3C;
+  opacity: 1;
+  padding-bottom: 20px;
+}
+.FourStepsMainDiv .box_3 h3 {
+  padding-top: 20px;
+  border-top: #737373 solid 1px;
+  text-align: center;
+  font: normal normal normal 16px/10px Open Sans;
+  letter-spacing: 0px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.FourStepsMainDiv .box_4 {
+  width: 100%;
+  height: 10%;
+}
+.FourStepsMainDiv .box_4 div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.FourStepsMainDiv .box_4 div button {
+  padding: 20px;
+  float: right;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  background: none;
+  text-align: left;
+  font: normal normal 300 36px/45px Open Sans;
+  color: #737373;
+  opacity: 1;
+  margin-right: 15px;
+  border: 1px solid #737373;
+  margin-top: 13px;
+}
+
+.AboutUsMainDiv {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+.AboutUsMainDiv .box_1 {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.AboutUsMainDiv .box_1 h2 {
+  text-align: center;
+  font: normal normal normal 38px/55px Open Sans;
+  letter-spacing: -0.76px;
+  color: #3C3C3C;
+  opacity: 1;
+}
+.AboutUsMainDiv .box_1 h3 {
+  text-align: center;
+  font: normal normal normal 30px/54px Open Sans;
+  letter-spacing: -0.6px;
+  color: #3C3C3C;
+  opacity: 1;
+  padding: 30px;
+}
+.AboutUsMainDiv .box_1 img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+}
+.AboutUsMainDiv .box_1 img:nth-child(4) {
+  padding-top: 40px;
+  margin-right: 80px;
+  float: right;
+}
+.AboutUsMainDiv .box_2 {
+  width: 50%;
+  height: 100%;
+  background-image: url("../assets/People.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.whoWeHelpMainDiv {
+  width: 100%;
+  height: 100vh;
+  background: olivedrab;
+}
+
+.ContactUsMainDiv {
+  width: 100%;
+  height: 100vh;
+  background: cadetblue;
+}
+
+/*# sourceMappingURL=App.css.map */
