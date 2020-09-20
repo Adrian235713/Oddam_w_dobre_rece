@@ -6,7 +6,7 @@ import Home from "./components/home";
 
 
 function App() {
-  return (
+    return (
     <div className="App">
         <Home/>
     </div>

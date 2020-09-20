@@ -1,0 +1,80 @@
+.universalMenu {
+  width: 100%;
+  height: 100vh;
+
+  //------------------------------------------------------------------------------------------
+  //Top menu
+  button {
+    float: right;
+    border-radius:6px;
+    cursor:pointer;
+    font-size:15px;
+    text-decoration:none;
+    border: none;
+    background: none;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    color: $Gray;
+    opacity: 1;
+    margin-top: 10px;
+    margin-right: 15px;
+  }
+
+  .universalMenuLogin {
+    height: 5vh;
+  }
+  .universalMenuMenu{
+    height: 5vh;
+  }
+
+  .loginRegisterLogout{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+  }
+
+  h2{
+    text-align: center;
+    font: normal normal normal 40px/55px Open Sans;
+    letter-spacing: -0.8px;
+    color: #3C3C3C;
+    padding: 5px;
+  }
+
+  .loginRegisterLogout div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+
+  }
+
+  //------------------------------------------------------------------------------------------
+
+  .login {
+    width: 50%;
+    height: 40%;
+    border: #737373 1px solid;
+    border-radius: 90px;
+  }
+
+}
+
+
+
+
+
+
+
+
+

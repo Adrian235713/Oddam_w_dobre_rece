@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6aea3f4-ec46-49c7-b57a-b18c3674a52f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="ProjectId" id="1gsCoymhxSVTa8x3sVAHavWelwn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Kalkulator" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nubi\Desktop\oddam_w_dobre_rece2\oddam_w_dobre_rece2\project\src" />
+      <recent name="C:\Users\Nubi\Desktop\oddam_w_dobre_rece2\oddam_w_dobre_rece2\project\src\components" />
+      <recent name="C:\Users\Nubi\Desktop\oddam_w_dobre_rece2\oddam_w_dobre_rece2\project\src\scss" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6aea3f4-ec46-49c7-b57a-b18c3674a52f" name="Default Changelist" comment="" />
+      <created>1598894092137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598894092137</updated>
+      <workItem from="1598894093348" duration="107000" />
+      <workItem from="1598898343410" duration="2327000" />
+      <workItem from="1598910289394" duration="5000" />
+      <workItem from="1598990698299" duration="5222000" />
+      <workItem from="1598997022574" duration="49000" />
+      <workItem from="1598997094946" duration="22000" />
+      <workItem from="1598997716749" duration="634000" />
+      <workItem from="1599248355549" duration="7270000" />
+      <workItem from="1599308273146" duration="2681000" />
+      <workItem from="1599390660202" duration="17773000" />
+      <workItem from="1599462050309" duration="3372000" />
+      <workItem from="1599488421429" duration="1398000" />
+      <workItem from="1599489854443" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="5000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="299" key="#Notifications" timestamp="1599462154916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="299" key="#Notifications/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599462154916" />
+    <state x="658" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599418371261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="299" key="#com.intellij.fileTypes.FileTypeChooser/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599418371261" />
+    <state x="764" y="288" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599418203882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="288" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599418203882" />
+    <state x="626" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598991315218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1598991315218" />
+    <state x="548" y="242" key="EditFileWatcherDialog" timestamp="1599250571971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="242" key="EditFileWatcherDialog/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599250571971" />
+    <state x="688" y="215" key="FileChooserDialogImpl" timestamp="1599489865528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="215" key="FileChooserDialogImpl/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599489865528" />
+    <state x="338" y="78" key="SettingsEditor" timestamp="1599462151167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="338" y="78" key="SettingsEditor/-1920.403.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1599462151167" />
+  </component>
+</project>
